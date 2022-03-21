@@ -1,0 +1,49 @@
+{
+  "allData": [
+    {
+      "name": "Manish",
+      "gender": "Male",
+      "department": "IT",
+      "role": "HR",
+      "salary": "1200",
+      "status": false,
+      "id": 1
+    },
+    {
+      "name": "Manish",
+      "gender": "Male",
+      "department": "IT",
+      "role": "HR",
+      "salary": "1200",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "Abhishek Kasera",
+      "gender": "Male",
+      "department": "Finance",
+      "role": "HR",
+      "salary": "120000",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "Ranjan Kumar",
+      "gender": "Female",
+      "department": "Marketing",
+      "role": "HR",
+      "salary": "1200",
+      "status": false,
+      "id": 4
+    },
+    {
+      "name": "Mangesh Pandit",
+      "gender": "Male",
+      "department": "IT",
+      "role": "Developer",
+      "salary": "20000",
+      "status": false,
+      "id": 5
+    }
+  ]
+}
